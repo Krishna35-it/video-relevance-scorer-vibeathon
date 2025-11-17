@@ -13,18 +13,18 @@ It supports YouTube URLs, manual uploads, automatic transcription using OpenAI W
 
 # Project Structure  
 
-video-relevance-scorer/
-│
-├── app.py
-├── transcribe.py
-├── youtube_utils.py
-├── relevance.py
-├── explain.py
-├── utils.py
-├── requirements.txt
-├── .env.example
-├── runs.csv
-└── README.md
+video-relevance-scorer/  
+│  
+├── app.py  
+├── transcribe.py  
+├── youtube_utils.py  
+├── relevance.py  
+├── explain.py  
+├── utils.py  
+├── requirements.txt  
+├── .env.example  
+├── runs.csv  
+└── README.md  
 
 # Installation  
 ## 1. Clone the repository  
