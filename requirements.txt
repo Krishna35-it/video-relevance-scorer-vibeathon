@@ -1,0 +1,14 @@
+streamlit
+openai
+openai-whisper
+python-dotenv
+sentence-transformers
+transformers
+torch
+ffmpeg-python
+pydub
+yt-dlp
+tqdm
+numpy
+scikit-learn
+
